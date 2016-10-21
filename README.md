@@ -1,5 +1,5 @@
 # hello-vue
-Nothz nok
+Trewit Nothz
 > A Vue.js project
 
 ## Build Setup
