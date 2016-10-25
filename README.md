@@ -1,6 +1,6 @@
 # hello-vue
 nok
-Trewit Nothz
+Nothz
 
 > A Vue.js project
 
